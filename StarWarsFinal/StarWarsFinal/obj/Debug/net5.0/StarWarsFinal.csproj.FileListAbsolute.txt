@@ -1,0 +1,16 @@
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\bin\Debug\net5.0\StarWarsFinal.exe
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\bin\Debug\net5.0\StarWarsFinal.deps.json
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\bin\Debug\net5.0\StarWarsFinal.runtimeconfig.json
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\bin\Debug\net5.0\StarWarsFinal.runtimeconfig.dev.json
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\bin\Debug\net5.0\StarWarsFinal.dll
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\bin\Debug\net5.0\ref\StarWarsFinal.dll
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\bin\Debug\net5.0\StarWarsFinal.pdb
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\obj\Debug\net5.0\StarWarsFinal.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\obj\Debug\net5.0\StarWarsFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\obj\Debug\net5.0\StarWarsFinal.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\obj\Debug\net5.0\StarWarsFinal.AssemblyInfo.cs
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\obj\Debug\net5.0\StarWarsFinal.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\obj\Debug\net5.0\StarWarsFinal.dll
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\obj\Debug\net5.0\ref\StarWarsFinal.dll
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\obj\Debug\net5.0\StarWarsFinal.pdb
+C:\Users\kamil\source\repos\StarWarsFinal\StarWarsFinal\obj\Debug\net5.0\StarWarsFinal.genruntimeconfig.cache

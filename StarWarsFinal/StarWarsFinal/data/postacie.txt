@@ -1,0 +1,10 @@
+Droid I,droid,100,100
+Droid II,droid,130,100
+Droid III,droid,150,100
+Droid IV,droid,160,100
+Droid V,droid,260,100
+Jedi I,jedi,300,100
+Jedi II,jedi,325,100
+Jedi III,jedi,360,100
+Separatysta,inny,380,100
+Obi-Wan Kenobi,jedi,900,100

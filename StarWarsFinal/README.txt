@@ -1,0 +1,1 @@
+W celu uruchomienia programu, należy zmienić ścieżkę plików .txt znajdujących się w folderach data i fabula w klasach Arena oraz Fabula.
